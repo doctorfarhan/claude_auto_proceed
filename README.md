@@ -2,6 +2,12 @@
 
 Automatic confirmation handling for Claude Code CLI within Cmder terminal emulator.
 
+
+  <p align="center">
+    <img src="claude_auto_proceed.png" alt="Just grow up Claude!" width="auto">
+  </p>
+
+
 ## What This Does
 
 This Cmder plugin automatically monitors your console and detects Claude Code CLI's "Do you want to proceed?" prompts, automatically accepting them by sending an Enter keypress. This creates a seamless, uninterrupted workflow when using Claude Code in Cmder.
